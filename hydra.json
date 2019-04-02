@@ -1,19 +1,19 @@
 {
-    "version": "0.0.0-testrelease.6+oryOS.0",
+    "version": "0.0.0-testrelease.7+oryOS.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/ory/hydra/releases/download/v0.0.0-testrelease.6+oryOS.0/hydra_0.0.0-testrelease.6+oryOS.0_Windows_32-bit.zip",
+            "url": "https://github.com/ory/hydra/releases/download/v0.0.0-testrelease.7+oryOS.0/hydra_0.0.0-testrelease.7+oryOS.0_Windows_32-bit.zip",
             "bin": [
                 "hydra.exe"
             ],
-            "hash": "fb04ba172531490a7dad486ef49037a5bd59bbbb33940d2a5975cc0327f3e99c"
+            "hash": "2b33cf4575cfb974cb2d71a24fcbf79924cafe1e5b2dc640391be9c81450f6ff"
         },
         "64bit": {
-            "url": "https://github.com/ory/hydra/releases/download/v0.0.0-testrelease.6+oryOS.0/hydra_0.0.0-testrelease.6+oryOS.0_Windows_64-bit.zip",
+            "url": "https://github.com/ory/hydra/releases/download/v0.0.0-testrelease.7+oryOS.0/hydra_0.0.0-testrelease.7+oryOS.0_Windows_64-bit.zip",
             "bin": [
                 "hydra.exe"
             ],
-            "hash": "421a946efe8d44b02cd251231ca319122af59625736ebd8d64d77599baca32d0"
+            "hash": "76e8f37ffecc10db6aa0a818fa79d9d7252ec1f98e86391c0c8b0c43b5abb045"
         }
     },
     "homepage": "https://www.ory.sh"
