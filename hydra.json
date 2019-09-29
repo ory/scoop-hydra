@@ -1,19 +1,19 @@
 {
-    "version": "1.0.6",
+    "version": "1.0.7",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/ory/hydra/releases/download/v1.0.6/hydra_1.0.6_Windows_32-bit.zip",
+            "url": "https://github.com/ory/hydra/releases/download/v1.0.7/hydra_1.0.7_Windows_32-bit.zip",
             "bin": [
                 "hydra.exe"
             ],
-            "hash": "fca55ee2b0d6c012e9c090ddeda6411cb5cbcc2b10ce673deb2c69c6355a256a"
+            "hash": "ba9be108aa11c3657cf49a151f6248f09de4d78580bbbd1f20f0311e16c5ead8"
         },
         "64bit": {
-            "url": "https://github.com/ory/hydra/releases/download/v1.0.6/hydra_1.0.6_Windows_64-bit.zip",
+            "url": "https://github.com/ory/hydra/releases/download/v1.0.7/hydra_1.0.7_Windows_64-bit.zip",
             "bin": [
                 "hydra.exe"
             ],
-            "hash": "56d57b583c647860baaaad7da8726632a18b56cb22e4f16938b07e9e4714a6b5"
+            "hash": "bc5df7bdf172a6fe43a042cd43b0863e202112bb46a5df06a64dbf2498d4091a"
         }
     },
     "homepage": "https://www.ory.sh"
